@@ -63,4 +63,4 @@ We welcome contributors with:
 ## Payment & Fairness Policy:
 This bot is built with a focus on speed, reliability, and fair-play competition. Ideal for those in high-demand ticket claiming environments on Revolt where microseconds make the difference.
 
-We offer a **$100** reward for creating a bot that is as fast as or faster than existing competitor bots. Payment will be made **only** if the bot achieves the desired speed. To ensure fair and secure transaction handling, we are open to using a **middleman** or an escrow service.
+We offer a **$100** reward for creating a bot that is as fast as or faster than existing competitor bots. Payment will be made **only** if the bot achieves the desired speed. To ensure fair and secure transaction handling, we are open to using a **middleman** or an escrow service..
