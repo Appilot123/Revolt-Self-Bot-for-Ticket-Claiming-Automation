@@ -100,6 +100,6 @@ We welcome contributors with:
 - Familiarity with Revolt and its API
 
 
-## Fairness:
+## Fairness and Performance:
 This bot is built with a focus on speed, reliability, and fair-play competition. Ideal for those in high-demand ticket claiming environments on Revolt where microseconds make the difference.
 
